@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/hamza/Downloads/Course-1/Hamza/DAY 1/VID 1",
-      "program": "/home/hamza/Downloads/Course-1/Hamza/DAY 1/VID 1/build/Debug/outDebug",
+      "cwd": "/home/hamza/Downloads/Course-1/Hamza/DAY 1/VID 8",
+      "program": "/home/hamza/Downloads/Course-1/Hamza/DAY 1/VID 8/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
